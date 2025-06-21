@@ -4,7 +4,7 @@ Hey, I'm **Kabir Mukherjee**, a 14 year old freelancer & entrepreneur from India
 
 ❤ Obsessed with AI, coding, & entrepreneurship  
 📈 Developer, Multimedia Designer, Content Producer & Entrepreneur  
-🏆 CEO @ TubeForge, HuntMC, Knightfall & Infranext
+🏆 CEO @ TubeForge, HuntMC, Knightfall & Infranext  
 💀 Way too many side projects  
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rnsuj4hsyf)
