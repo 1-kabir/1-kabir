@@ -63,8 +63,3 @@ Hey, I'm **Kabir Mukherjee**, a 14 year old freelancer & entrepreneur from India
 ![Claude](https://img.shields.io/badge/Claude-101828?style=for-the-badge\&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirdev&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdev&layout=compact&theme=github_dark)
