@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 
-Hey, I'm **Kabir Mukherjee**, a 14 year old freelancer & entrepreneur from India. 
+Hey, I'm **Kabir Mukherjee**, a freelancer & entrepreneur from India. 
 
 ❤ Obsessed with AI, coding, & entrepreneurship  
 📈 Developer, Multimedia Designer, Content Producer & Entrepreneur  
