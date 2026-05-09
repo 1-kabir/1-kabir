@@ -7,7 +7,7 @@ I'm a high-schooler, freelancer (multimedia & dev) & entrepreneur.
 ### what i'm up to
 
 - building **[Infranext](https://infranext.dev/)** and **[TubeForge](https://tubeforge.net/)**
-- working on **Puppet.dev** (agentic IDE, WIP)
+- working on **Runyard** (agentic IDE, WIP)
 - shipping **[Flox](https://github.com/1-kabir/flox)** (browser AI automation app)
 - and like 10 other *"side"* projects
 
